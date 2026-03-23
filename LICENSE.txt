@@ -1,0 +1,6 @@
+Copyright (c) Jonathan de leon
+All Rights Reserved.
+
+Este repositorio se publica unicamente con fines de evaluacion profesional y portafolio.
+No se concede permiso para copiar, redistribuir, sublicenciar, vender, reutilizar ni
+crear trabajos derivados del contenido aqui mostrado sin autorizacion expresa y por escrito.
