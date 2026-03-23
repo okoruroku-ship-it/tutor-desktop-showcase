@@ -2,9 +2,9 @@
 
 Repositorio publico de portafolio para mostrar el proyecto sin exponer el codigo fuente completo.
 
-![Vista demostrativa del proyecto](assets/showcase-demo.svg)
+![Captura real del proyecto](assets/showcase-real.png)
 
-Ilustracion de showcase basada en los modulos reales del sistema.
+Captura real de la interfaz de escritorio ejecutada desde el proyecto local.
 
 ## Resumen
 
