@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Tutor Desktop Showcase</title>
+  <desc id="desc">Ilustracion demostrativa de una aplicacion de escritorio para rutas de aprendizaje, progreso y laboratorio de codigo.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2042"/>
+      <stop offset="100%" stop-color="#2f74ff"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#eef5ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1320" cy="140" r="170" fill="#7fc8ff" opacity="0.12"/>
+  <circle cx="230" cy="760" r="210" fill="#9fd2ff" opacity="0.09"/>
+  <text x="120" y="120" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Tutor Desktop 0 a Master</text>
+  <text x="120" y="165" fill="#dbe8ff" font-family="Segoe UI, Arial, sans-serif" font-size="24">App de escritorio para estudio guiado, progreso y laboratorio de codigo</text>
+  <rect x="110" y="210" width="1380" height="600" rx="36" fill="url(#panel)" opacity="0.98"/>
+  <rect x="145" y="245" width="260" height="530" rx="28" fill="#112247"/>
+  <text x="180" y="300" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Rutas</text>
+  <rect x="175" y="330" width="200" height="54" rx="18" fill="#2f74ff"/>
+  <text x="200" y="365" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="24">Python 0 a Master</text>
+  <rect x="175" y="405" width="200" height="54" rx="18" fill="#1d3568"/>
+  <text x="200" y="440" fill="#dbe8ff" font-family="Segoe UI, Arial, sans-serif" font-size="24">Java</text>
+  <rect x="175" y="480" width="200" height="54" rx="18" fill="#1d3568"/>
+  <text x="200" y="515" fill="#dbe8ff" font-family="Segoe UI, Arial, sans-serif" font-size="24">SQL</text>
+  <rect x="175" y="555" width="200" height="54" rx="18" fill="#1d3568"/>
+  <text x="200" y="590" fill="#dbe8ff" font-family="Segoe UI, Arial, sans-serif" font-size="24">JavaScript</text>
+  <rect x="175" y="650" width="200" height="90" rx="22" fill="#17315f"/>
+  <text x="200" y="690" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">84 clases</text>
+  <text x="200" y="720" fill="#9fc0ff" font-family="Segoe UI, Arial, sans-serif" font-size="18">Laboratorio y reportes</text>
+  <rect x="440" y="250" width="1005" height="94" rx="24" fill="#ffffff"/>
+  <text x="480" y="305" fill="#10203e" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Panel del alumno</text>
+  <rect x="1115" y="272" width="290" height="48" rx="18" fill="#dce9ff"/>
+  <text x="1145" y="303" fill="#2756b8" font-family="Segoe UI, Arial, sans-serif" font-size="22">Progreso general 72%</text>
+  <rect x="440" y="370" width="460" height="175" rx="28" fill="#dfe9ff"/>
+  <text x="470" y="418" fill="#17366c" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Clase activa</text>
+  <text x="470" y="458" fill="#183f76" font-family="Segoe UI, Arial, sans-serif" font-size="24">Instalar Python, VS Code y usar la terminal</text>
+  <text x="470" y="495" fill="#44679d" font-family="Segoe UI, Arial, sans-serif" font-size="21">Teoria, ejercicios, feedback y siguiente paso sugerido.</text>
+  <rect x="470" y="515" width="220" height="16" rx="8" fill="#bfd4ff"/>
+  <rect x="470" y="515" width="164" height="16" rx="8" fill="#2f74ff"/>
+  <text x="705" y="529" fill="#2756b8" font-family="Segoe UI, Arial, sans-serif" font-size="18">75/100</text>
+  <rect x="930" y="370" width="515" height="175" rx="28" fill="#0f1d39"/>
+  <text x="965" y="418" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Laboratorio de codigo</text>
+  <rect x="965" y="445" width="440" height="72" rx="18" fill="#18284d"/>
+  <text x="995" y="488" fill="#9fd2ff" font-family="Consolas, monospace" font-size="24">print("Hola, mundo")</text>
+  <text x="965" y="535" fill="#7ecbb0" font-family="Segoe UI, Arial, sans-serif" font-size="20">Modo Python, Java y SQL con practica guiada</text>
+  <rect x="440" y="570" width="650" height="190" rx="28" fill="#ffffff"/>
+  <text x="475" y="615" fill="#17366c" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Fortalezas y seguimiento</text>
+  <rect x="480" y="640" width="160" height="92" rx="20" fill="#e9f7f0"/>
+  <text x="512" y="690" fill="#177a55" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Logica</text>
+  <text x="532" y="722" fill="#29a56b" font-family="Segoe UI, Arial, sans-serif" font-size="22">78.4</text>
+  <rect x="665" y="640" width="160" height="92" rx="20" fill="#eef2ff"/>
+  <text x="683" y="690" fill="#3553c5" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Python</text>
+  <text x="719" y="722" fill="#5874d7" font-family="Segoe UI, Arial, sans-serif" font-size="22">90.0</text>
+  <rect x="850" y="640" width="205" height="92" rx="20" fill="#fff3e1"/>
+  <text x="880" y="690" fill="#c67900" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Reportes PDF</text>
+  <text x="909" y="722" fill="#da8a06" font-family="Segoe UI, Arial, sans-serif" font-size="22">Exportables</text>
+  <rect x="1120" y="570" width="325" height="190" rx="28" fill="#dfe9ff"/>
+  <text x="1155" y="615" fill="#17366c" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Stack</text>
+  <text x="1155" y="658" fill="#31568f" font-family="Segoe UI, Arial, sans-serif" font-size="24">Python</text>
+  <text x="1155" y="692" fill="#31568f" font-family="Segoe UI, Arial, sans-serif" font-size="24">Tkinter</text>
+  <text x="1155" y="726" fill="#31568f" font-family="Segoe UI, Arial, sans-serif" font-size="24">ReportLab</text>
+  <text x="1155" y="760" fill="#31568f" font-family="Segoe UI, Arial, sans-serif" font-size="24">unittest</text>
+</svg>

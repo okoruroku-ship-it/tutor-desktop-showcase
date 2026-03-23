@@ -2,7 +2,9 @@
 
 Repositorio publico de portafolio para mostrar el proyecto sin exponer el codigo fuente completo.
 
-![Vista general](assets/jonathan-cover.png)
+![Vista demostrativa del proyecto](assets/showcase-demo.svg)
+
+Ilustracion de showcase basada en los modulos reales del sistema.
 
 ## Resumen
 
